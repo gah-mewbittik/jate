@@ -18,7 +18,7 @@ N/A
 
 ## Usage
 
-To view the application in action, simply click the following link:
+To view the application in action, simply click the following link: https://jate-o6j6.onrender.com
 The link will redirect you to the application, and will allow you to use JATE. The Just Another Text Editor application functionality allows the user to type in anything they want and save it. The application also allows offline use. 
 
 ## Credits
